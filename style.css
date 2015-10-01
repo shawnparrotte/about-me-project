@@ -1,0 +1,33 @@
+h1 {
+  font-family: sans-serif;
+  font-size: 60px;
+  color: cyan;
+}
+img {
+  width: 550px;
+  height: auto;
+}
+.background {
+  border-style: outset;
+  font-family: sans-serif;
+  font-size: 13px;
+  padding: 30px;
+  width: 500px;
+}
+.hobbies {
+  border-style: dotted;
+  font-family: sans-serif;
+  font-size: 18px;
+  padding: 30px;
+  width: 500px;
+}
+.websites {
+  border-style: dashed;
+  border-color: black;
+  font-family: sans-serif;
+  color: red;
+  text-decoration: line-through;
+  font-size: 18px;
+  padding: 30px;
+  width: 500px;
+}
